@@ -1,0 +1,26 @@
+{
+    "python.defaultInterpreterPath": "/Users/pmartins/.local/share/virtualenvs/graph-tool-python-wwX52oII/bin/python",
+    "python.terminal.activateEnvironment": true,
+    "python.testing.pytestArgs": [
+        "tests"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true,
+    "files.associations": {
+        "__debug": "cpp",
+        "__nullptr": "cpp",
+        "__tuple": "cpp",
+        "algorithm": "cpp",
+        "complex": "cpp",
+        "cstddef": "cpp",
+        "functional": "cpp",
+        "initializer_list": "cpp",
+        "iterator": "cpp",
+        "memory": "cpp",
+        "ostream": "cpp",
+        "string": "cpp",
+        "type_traits": "cpp",
+        "typeinfo": "cpp",
+        "utility": "cpp"
+    }
+}
