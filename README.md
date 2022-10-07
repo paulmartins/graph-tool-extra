@@ -1,6 +1,6 @@
 # Graph-tool Extras
 
-This reposiroty mainly contains python utility functions and extra algorithms that are not already implemented in [`graph-tool`](https://graph-tool.skewed.de/).
+Collection of functions and extra algorithms that are not available in [`graph-tool`](https://graph-tool.skewed.de/) but which I have found useful while using the module.
 
 ```
 src/
